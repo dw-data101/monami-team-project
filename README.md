@@ -1,18 +1,38 @@
-# Team1 해야할일
+# Team 1 소개 페이지 작성
 
-1. rrd 설치.
-2. src/routes/AppRoute.jsx 만들고 경로 추가하기
-3. src/routes/
-   - index => Home
-   - 소개페이지, 제품페이지, 고객지원페이 만드세요.
+- 팀원과 맡을 파트 나누고 맡아서 작업할 아이템의 이름을 정하세요
+- src/pageComponents/Intro/
 
-# Team 2 할일
+  - Sample1.jsx
+  - Sample2.jsx
+  - Sample3.jsx
 
-1. src/pageComponents/
-   - 소개, 제품, 고객지원용 폴더 만들기
+  ### 페이지 구현에 필요한 자료 만들기
 
-# Team 3 할일
+  ### 영역 나누기
 
-1. src/index.css
-   - reset
-   - margin, padding, liststyletype-
+# Team 2 제품 페이지 작성
+
+- 팀원과 맡을 파트 나누고 맡아서 작업할 아이템의 이름을 정하세요
+- src/pageComponents/products/
+
+  - Sample1.jsx
+  - Sample2.jsx
+  - Sample3.jsx
+
+  ### 페이지 구현에 필요한 자료 만들기
+
+  ### 영역 나누기
+
+# Team 3 고객지원 페이지 작성
+
+- 팀원과 맡을 파트 나누고 맡아서 작업할 아이템의 이름을 정하세요
+- src/pageComponents/support/
+
+  - Sample1.jsx
+  - Sample2.jsx
+  - Sample3.jsx
+
+  ### 페이지 구현에 필요한 자료 만들기
+
+  ### 영역 나누기

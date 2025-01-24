@@ -1,8 +1,18 @@
-# React + Vite
+# Team1 해야할일
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. rrd 설치.
+2. src/routes/AppRoute.jsx 만들고 경로 추가하기
+3. src/routes/
+   - index => Home
+   - 소개페이지, 제품페이지, 고객지원페이 만드세요.
 
-Currently, two official plugins are available:
+# Team 2 할일
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. src/pageComponents/
+   - 소개, 제품, 고객지원용 폴더 만들기
+
+# Team 3 할일
+
+1. src/index.css
+   - reset
+   - margin, padding, liststyletype-

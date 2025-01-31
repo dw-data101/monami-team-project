@@ -1,11 +1,9 @@
-import React from "react";
+import React, { useState } from "react";
 import { centerIntro } from "../assets/team1";
-import { useNavigate } from "react-router-dom";
 
 const Intro = () => {
-  const introPath = useNavigate();
+  const [intromove, setIntromove] = useState(centerIntro[0].path);
 
-  introPath(centerIntro);
   return (
     <div>
       <ul
@@ -15,7 +13,7 @@ const Intro = () => {
       >
         {centerIntro.map((intro, index) => {
           const onClick = () => {
-            introPath(intro.path);
+            setIntromove(intro.path);
           };
           return (
             <li key={index}>
@@ -32,6 +30,13 @@ const Intro = () => {
           );
         })}
       </ul>
+
+      {
+        {
+          ceom: <>mes</>,
+          comi: <>com</>,
+        }[intromove]
+      }
     </div>
   );
 };

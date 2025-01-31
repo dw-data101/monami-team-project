@@ -379,3 +379,20 @@ export const catalogue = [
     name: "제품 카탈로그 2020",
   },
 ];
+
+const products = [
+  {
+    title: "",
+    stitle: "",
+    catagory: "",
+    type: "",
+    img: "",
+  },
+];
+
+const productTypes = [
+  {
+    catagory: "",
+    items: [],
+  },
+];

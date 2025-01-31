@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import FAQ from "../pageComponents/Support/FAQ";
 import Inquiry from "./../pageComponents/Support/Inquiry";
-import { supportButton } from "./../pageComponents/Support/team3";
 
 const Support = () => {
   const [mFAQ, setMFAQ] = useState("");

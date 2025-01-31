@@ -2,6 +2,7 @@ export const supportButton = [
   { text: "자주하는질문", path: "FAQ" },
   { text: "문의하기", path: "inquiry" },
 ];
+
 export const monamiFaq = [
   {
     q: "대량 구매 문의?",

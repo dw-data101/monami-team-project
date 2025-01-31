@@ -180,47 +180,47 @@ export const colorImgs = [
   {
     imgs: "",
     stitle: "보드마카",
-    name: "",
+    name: "보드마카 12색+지우개 세트",
   },
   {
     imgs: "",
     stitle: "유성매직",
-    name: "",
+    name: "이지클릭 유성매직 12색 세트",
   },
   {
     imgs: "",
     stitle: "산업마카",
-    name: "",
+    name: "스킬마카 트윈 알파",
   },
   {
     imgs: "",
     stitle: "유성마카",
-    name: "",
+    name: "네임펜 M 화이트",
   },
   {
     imgs: "",
     stitle: "워터브러쉬",
-    name: "",
+    name: "워터 리얼 브러쉬",
   },
   {
     imgs: "",
     stitle: "수성마카",
-    name: "",
+    name: "컬러 리얼 브러쉬",
   },
   {
     imgs: "",
     stitle: "수성마카",
-    name: "",
+    name: "붓펜 12색 세트",
   },
 ];
 
 export const note = [
   {
     items: [
-      { title: "", path: "" },
-      { title: "", path: "" },
-      { title: "", path: "" },
-      { title: "", path: "" },
+      { title: "LOBDA(롭다)", path: "" },
+      { title: "노트·다이어리", path: "" },
+      { title: "풀·접착용품", path: "" },
+      { title: "지우개·수정용품", path: "" },
     ],
   },
 ];
@@ -228,18 +228,63 @@ export const note = [
 export const noteImgs = [
   {
     imgs: "",
-    stitle: "",
-    name: "",
+    stitle: "노트",
+    name: "지퀀스 노트 Signature Classic A5",
+  },
+  {
+    imgs: "",
+    stitle: "노트",
+    name: "지퀀스 노트 Signature Classic A7",
+  },
+  {
+    imgs: "",
+    stitle: "노트",
+    name: "지퀀스 노트 The Color B6",
+  },
+  {
+    imgs: "",
+    stitle: "노트",
+    name: "지퀀스 노트 The Color A6",
+  },
+  {
+    imgs: "",
+    stitle: "노트",
+    name: "지퀀스 노트 The Color A5",
+  },
+  {
+    imgs: "",
+    stitle: "노트",
+    name: "지퀀스 노트 Basic+ A5",
+  },
+  {
+    imgs: "",
+    stitle: "사무용품",
+    name: "롭다 풀(35g)",
+  },
+  {
+    imgs: "",
+    stitle: "사무용품",
+    name: "롭다 풀(25g)",
+  },
+  {
+    imgs: "",
+    stitle: "사무용품",
+    name: "롭다 커터칼",
+  },
+  {
+    imgs: "",
+    stitle: "사무용품",
+    name: "롭다 스테이플러",
   },
 ];
 
 export const ink = [
   {
     items: [
-      { title: "", path: "" },
-      { title: "", path: "" },
-      { title: "", path: "" },
-      { title: "", path: "" },
+      { title: "볼펜 리필", path: "" },
+      { title: "병잉크", path: "" },
+      { title: "잉크 카트리지", path: "" },
+      { title: "컨버터", path: "" },
     ],
   },
 ];
@@ -247,15 +292,90 @@ export const ink = [
 export const inkImgs = [
   {
     imgs: "",
-    stitle: "",
-    name: "",
+    stitle: "산업마카",
+    name: "프로캡 드라이 펜슬 마카 리드(리필심)",
+  },
+  {
+    imgs: "",
+    stitle: "수성펜",
+    name: "프러스펜 S 리필심",
+  },
+  {
+    imgs: "",
+    stitle: "유성볼펜",
+    name: "롤링펜 S 리필심",
+  },
+  {
+    imgs: "",
+    stitle: "유성볼펜",
+    name: "FX multi 700",
+  },
+  {
+    imgs: "",
+    stitle: "만년필",
+    name: "잉크 카트리지",
+  },
+  {
+    imgs: "",
+    stitle: "만년필",
+    name: "모나미 컨버터",
+  },
+  {
+    imgs: "",
+    stitle: "수성마카",
+    name: "붓펜 리필잉크",
+  },
+  {
+    imgs: "",
+    stitle: "FX700",
+    name: "FX700",
+  },
+  {
+    imgs: "",
+    stitle: "만년필",
+    name: "모나미 병잉크",
+  },
+  {
+    imgs: "",
+    stitle: "프리미엄펜",
+    name: "FX 4000",
   },
 ];
 
 export const catalogue = [
   {
     imgs: "",
-    stitle: "",
-    name: "",
+    stitle: "catalogue",
+    name: "제품 카탈로그 2025",
+  },
+  {
+    imgs: "",
+    stitle: "catalogue",
+    name: "LOBDA(롭다) 리플렛",
+  },
+  {
+    imgs: "",
+    stitle: "catalogue",
+    name: "제품 카탈로그 2024",
+  },
+  {
+    imgs: "",
+    stitle: "catalogue",
+    name: "제품 카탈로그 2023",
+  },
+  {
+    imgs: "",
+    stitle: "catalogue",
+    name: "제품 카탈로그 2022",
+  },
+  {
+    imgs: "",
+    stitle: "catalogue",
+    name: "제품 카탈로그 2021",
+  },
+  {
+    imgs: "",
+    stitle: "catalogue",
+    name: "제품 카탈로그 2020",
   },
 ];

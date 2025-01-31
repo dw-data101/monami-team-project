@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import { centerIntro } from "../assets/team1";
 
+import CeoM from "../pageComponents/Introduction/CeoM";
+
 const Intro = () => {
   const [intromove, setIntromove] = useState(centerIntro[0].path);
 
@@ -30,10 +32,14 @@ const Intro = () => {
           );
         })}
       </ul>
+      {/* 
+{변수값1:<>비교할 변수가 변수값1일때</>,
+}
 
+*/}
       {
         {
-          ceom: <>mes</>,
+          ceom: <CeoM />,
           comi: <>com</>,
         }[intromove]
       }

@@ -1,7 +1,11 @@
 import React from "react";
 
 const Support = () => {
-  return <div>Support</div>;
+  return (
+    <div>
+      <supportButton />
+    </div>
+  );
 };
 
 export default Support;

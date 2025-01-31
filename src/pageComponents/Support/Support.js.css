@@ -1,0 +1,17 @@
+#supportButton {
+  display: flex;
+}
+#supportButton button {
+  width: 100%;
+  border: none;
+  padding: 10px;
+}
+#supportButton button.r {
+  color: whitesmoke;
+  background-color: rgb(204, 9, 9);
+}
+#supportButton button.l {
+  background-color: white;
+  border: 1px solid whitesmoke;
+  color: gray;
+}

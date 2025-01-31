@@ -101,3 +101,6 @@ export const monamiInquilryOptions = [
   "산업용제품문의",
   "기타문의",
 ];
+
+export const mFaqQIcon =
+  "https://cdn-icons-png.flaticon.com/128/9347/9347853.png";

@@ -1,16 +1,21 @@
 import React from "react";
-import { FaUnderline } from "react-icons/fa";
 import { monamiFaq } from "../../assets/team3";
 import "./FAQ.js.css";
+import { mFaqQIcon } from "../../assets/team3";
 
 const FAQ = () => {
   return (
     <div>
-      <ul>
+      <ul id="mFaq">
         {monamiFaq.map((list) => {
           return (
-            <li key={list}>
-              <span>Q</span> <button>{list.q}</button>
+            <li key={list.q} id="mFaqLi">
+              <button>
+                <span>
+                  <mFaqQIcon />
+                </span>
+                {list.q}
+              </button>
             </li>
           );
         })}

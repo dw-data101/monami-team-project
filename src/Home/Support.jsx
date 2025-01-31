@@ -1,10 +1,9 @@
 import React, { useState } from "react";
 import FAQ from "../pageComponents/Support/FAQ";
 import Inquiry from "./../pageComponents/Support/Inquiry";
-import { supportButton } from "./../pageComponents/Support/team3";
 
 const Support = () => {
-  const [mFAQ, setMFAQ] = useState("");
+  const [mFAQ, setMFAQ] = useState("faq");
   return (
     <div>
       <div>
@@ -16,11 +15,10 @@ const Support = () => {
           자주하는질문
         </button>
       </div>
-      <h1>MONAMI FAQ</h1>
+      <h1>MONAMI FAQ :{mFAQ}</h1>
       {
         {
           faq: <FAQ />,
-          inquiry: <Inquiry />,
         }[mFAQ]
       }
     </div>

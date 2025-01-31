@@ -227,7 +227,52 @@ export const note = [
 
 export const noteImgs = [
   {
-    imgs: "",
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2120014203_file6_1711340993u4ov9xa494.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2120014232_file6_1711340830swba2ws9k1.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2120014216_file6_1711340693bu75fwj1bb.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2120014220_file6_1711340593zyuqb36840.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2120014201_file6_1711340757johyd13i1d.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2120014204_file6_1711005647rj19md9er9.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2170889930_file6_1710483819xsh291kiv0.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2170889933_file6_171048368517f665jke0.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2170889909_file6_1710483515b04weuy9tp.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2170889944_file6_1710483224h9p0htr8ut.jpg",
     stitle: "",
     name: "",
   },
@@ -246,7 +291,52 @@ export const ink = [
 
 export const inkImgs = [
   {
-    imgs: "",
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2171312003_file6_17258671601izhq9f98i.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2040038004_file6_1712816969b5pn7ycxbj.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2010133004_file6_1712816609ilnhagq6z1.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2012000001_file6_158208613198boosjtl0.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2110004012_file6_1519172961f7nszpuy5p.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2110000008_file6_1605835989irozhaxj4m.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2054251003_file6_1569827627igmysvgk37.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/8801067279666_file6_1560318301uus3cx2ahq.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2119999030_file6_1519117790trkf7urf4d.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/product/2010204301_file6_1510666594o1dtc964yr.jpg",
     stitle: "",
     name: "",
   },
@@ -254,7 +344,37 @@ export const inkImgs = [
 
 export const catalogue = [
   {
-    imgs: "",
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/board/catalogue/b_file_1736494947aax08vnppd.png",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/board/catalogue/b_file_17113336471for6nr1ll.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/board/catalogue/b_file_170254128410kjkddqgc.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/board/catalogue/b_file_1673244988mcc4yt1lug.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/board/catalogue/b_file_1649402877usarkha089.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/board/catalogue/b_file_1608594654rv6p14nu13.jpg",
+    stitle: "",
+    name: "",
+  },
+  {
+    imgs: "https://dfrkkcv2hg1jc.cloudfront.net/data/board/catalogue/b_file_1580789212nu2uzr9jir.jpg",
     stitle: "",
     name: "",
   },

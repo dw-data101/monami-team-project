@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { centerIntro } from "../assets/team1";
 
 import CeoM from "../pageComponents/Introduction/CeoM";
@@ -41,6 +41,7 @@ const Intro = () => {
         {
           ceom: <CeoM />,
           comi: <>com</>,
+          comy: <>coy</>,
         }[intromove]
       }
     </div>

@@ -101,3 +101,14 @@ export const monamiInquilryOptions = [
   "산업용제품문의",
   "기타문의",
 ];
+export const monamiInquilry=[
+ ' CONTACT US',
+' 문의내용',
+' ▼',
+'*이름',
+'*이메일',
+'연락처'
+'*제목',
+'*내용',
+'첨부파일',
+

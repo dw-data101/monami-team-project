@@ -380,19 +380,63 @@ export const catalogue = [
   },
 ];
 
-const products = [
+export const products = [
   {
-    title: "",
-    stitle: "",
-    catagory: "",
-    type: "",
+    title: "제니스7데스크펜",
+    subtitle: "프리미엄 펜",
+    catagory: "프리미엄 펜",
+    type: "프리미엄 펜",
     img: "",
   },
 ];
 
-const productTypes = [
+export const productTypes = [
   {
-    catagory: "",
-    items: [],
+    catagory: "프리미엄 펜",
+    items: [
+      { name: "고급볼펜", path: "" },
+      { name: "만년필", path: "" },
+      { name: "고급샤프", path: "" },
+    ],
+  },
+  {
+    catagory: "펜.펜슬",
+    items: [
+      { name: "유성볼펜", path: "" },
+      { name: "멀티펜", path: "" },
+      { name: "수성펜", path: "" },
+      { name: "형광펜", path: "" },
+      { name: "연필.샤프", path: "" },
+    ],
+  },
+  {
+    catagory: "마카.컬러링",
+    items: [
+      { name: "생활마카", path: "" },
+      { name: "컬러링.브러쉬펜", path: "" },
+      { name: "색연필.물감", path: "" },
+      { name: "산업마카", path: "" },
+    ],
+  },
+  {
+    catagory: "노트.사무용품",
+    items: [
+      { name: "LOBDA(롭다)", path: "" },
+      { name: "노트.다이어리", path: "" },
+      { name: "풀.접착용품", path: "" },
+      { name: "지우개.수정용품", path: "" },
+    ],
+  },
+  {
+    catagory: "잉크.리필",
+    items: [
+      { name: "볼펜 리필", path: "" },
+      { name: "병잉크", path: "" },
+      { name: "잉크 카트리지", path: "" },
+      { name: "컨버터", path: "" },
+    ],
+  },
+  {
+    catagory: "프리미엄 펜",
   },
 ];

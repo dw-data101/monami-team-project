@@ -1,0 +1,22 @@
+#mFaq {
+  display: flex;
+  flex-direction: column;
+}
+
+#mFaqLi {
+  border: 1px solid gainsboro;
+  margin: 3px 20px;
+}
+#mFaqLi button {
+  border: none;
+  background-color: transparent;
+  display: flex;
+  padding: 18px 30px;
+  column-gap: 10px;
+  font-size: 14px;
+  color: gray;
+  font-weight: bold;
+}
+
+#mFaqLi button:hover {
+}

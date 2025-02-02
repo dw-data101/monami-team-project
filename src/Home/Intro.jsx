@@ -11,6 +11,7 @@ const Intro = () => {
       <ul
         style={{
           display: "flex",
+          justifyContent: "center",
         }}
       >
         {centerIntro.map((intro, index) => {
